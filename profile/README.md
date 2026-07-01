@@ -1,6 +1,14 @@
-# 🛡️ Welcome to Praman Network
+<p align="center">
+  <img src="https://praman.network/logo.png" alt="Praman Network Logo" width="90" />
+</p>
 
-**The Privacy-First Identity Layer for the Decentralized Web.**
+<h1 align="center">Welcome to Praman Network 🚀</h1>
+
+<p align="center">
+  The Privacy-First Identity Layer for the Decentralized Web.
+</p>
+
+
 
 We are building the future of authentication where users have complete sovereignty over their biometric data, and developers can integrate passwordless, gasless, and sybil-resistant login seamlessly. 
 
